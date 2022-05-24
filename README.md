@@ -1,1 +1,1 @@
-# netten yeni başlayanlar için örnek proje
+# yeni başlayanlar için örnek proje
