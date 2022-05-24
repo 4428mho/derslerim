@@ -1,2 +1,1 @@
-# derslerim
-problem cozumleri
+# netten yeni başlayanlar için örnek proje
